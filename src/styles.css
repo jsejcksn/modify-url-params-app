@@ -1,0 +1,42 @@
+:root {
+  --color-bg--dark: hsl(215, 10%, 12%);
+  --color-fg--dark: hsl(0, 0%, 90%);
+  --color-bg--light: hsl(0, 0%, 100%);
+  --color-fg--light: hsl(0, 0%, 0%);
+  --color-fg-subtle: hsl(0, 0%, 50%);
+  --color-bg-subtle: hsla(0, 0%, 50%, 0.15);
+  --color-bg-subtle-2: hsla(0, 0%, 50%, 0.08);
+  --color-accent: hsl(215, 100%, 50%);
+  --font-mono: 'Fira Code', monospace;
+  --font-sans: 'Inter', sans-serif;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    --color-bg: var(--color-bg--light);
+    --color-fg: var(--color-fg--light);
+    --color-accent: hsl(215, 80%, 30%);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    --color-bg: var(--color-bg--dark);
+    --color-fg: var(--color-fg--dark);
+    --color-accent: hsl(215, 50%, 80%);
+  }
+}
+
+code {
+  font-family: var(--font-mono);
+}
+
+img {
+  max-width: 100%;
+}

@@ -1,3 +1,5 @@
+/** @jsxImportSource @emotion/react */
+
 import type {ReactElement} from 'react';
 import {css, SerializedStyles} from '@emotion/react';
 

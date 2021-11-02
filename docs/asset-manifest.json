@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modify-url-params-app/static/css/main.803c8af5.chunk.css",
+    "main.js": "/modify-url-params-app/static/js/main.e8456cc3.chunk.js",
+    "main.js.map": "/modify-url-params-app/static/js/main.e8456cc3.chunk.js.map",
+    "runtime-main.js": "/modify-url-params-app/static/js/runtime-main.79984e09.js",
+    "runtime-main.js.map": "/modify-url-params-app/static/js/runtime-main.79984e09.js.map",
+    "static/css/2.0cdc7206.chunk.css": "/modify-url-params-app/static/css/2.0cdc7206.chunk.css",
+    "static/js/2.41492319.chunk.js": "/modify-url-params-app/static/js/2.41492319.chunk.js",
+    "static/js/2.41492319.chunk.js.map": "/modify-url-params-app/static/js/2.41492319.chunk.js.map",
+    "index.html": "/modify-url-params-app/index.html",
+    "static/css/2.0cdc7206.chunk.css.map": "/modify-url-params-app/static/css/2.0cdc7206.chunk.css.map",
+    "static/css/main.803c8af5.chunk.css.map": "/modify-url-params-app/static/css/main.803c8af5.chunk.css.map",
+    "static/js/2.41492319.chunk.js.LICENSE.txt": "/modify-url-params-app/static/js/2.41492319.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79984e09.js",
+    "static/css/2.0cdc7206.chunk.css",
+    "static/js/2.41492319.chunk.js",
+    "static/css/main.803c8af5.chunk.css",
+    "static/js/main.e8456cc3.chunk.js"
+  ]
+}
